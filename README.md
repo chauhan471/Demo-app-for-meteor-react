@@ -2,3 +2,6 @@
 
 It's a web application that provides a fake list of people.
 I have used faker library to produce this data.
+
+
+Please add node_modules using npm command.
